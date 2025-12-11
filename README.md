@@ -8,22 +8,22 @@ The objective of this project is to build a regression model that can predict th
 
 The workflow includes:
 
-Data Cleaning & Preprocessing
-Exploratory Data Visualization
-Feature Engineering
-Train–Test Split
-Model Training & Testing
-Performance Evaluation
+Data Cleaning & Preprocessing,
+Exploratory Data Visualization,
+Feature Engineering,
+Train–Test Split,
+Model Training & Testing,
+Performance Evaluation.
 
 Technologies & Libraries Used:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Google Colab
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+Google Colab.
 
 Model Performance:
 Metric	Score
